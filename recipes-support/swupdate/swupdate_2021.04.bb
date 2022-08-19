@@ -1,6 +1,9 @@
 require swupdate.inc
 
-SRCREV = "47a1246435fdb78fba15cc969596994130412956"
+#SRCREV = "47a1246435fdb78fba15cc969596994130412956"
+
+# pointer to picomass fork: 2021.04_socket_patch_dc
+SRCREV = "33077be7f08c701d631da84bc1319aa7b089af4c"
 
 LIC_FILES_CHKSUM = "file://LICENSES/GPL-2.0-only.txt;md5=4ee23c52855c222cba72583d301d2338 \
                     file://LICENSES/LGPL-2.1-or-later.txt;md5=4fbd65380cdd255951079008b364516c \
